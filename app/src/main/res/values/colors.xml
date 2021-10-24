@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oink">#DC1BFF</color>
+    <color name="purple">#FF6200EE</color>
+    <color name="blue">#FF3700B3</color>
+    <color name="skyblue">#FF03DAC5</color>
+    <color name="red">#EA0000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_grey">#CACACA</color>
+</resources>
